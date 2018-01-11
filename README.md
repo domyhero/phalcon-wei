@@ -1,6 +1,7 @@
-# phalcon-wei
+## phalcon-做的微交易平台
 
 phalcon框架 + Node.Js
+
 mysql+redis+mogondb
 
 
